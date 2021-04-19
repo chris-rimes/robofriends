@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Techno Board Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Techno Board Regular"),
+    url("TechnoBoard-519Ej.woff") format("woff");
+}
+
+h1 {
+  font-family: "Techno Board Regular";
+  font-weight: 200;
+  color: #0ccac4;
+}
